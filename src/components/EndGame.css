@@ -1,0 +1,13 @@
+.EndContainer {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.EndContainer h3 {
+    background-color: beige;
+    padding: 10px;
+    border-radius: 10px;
+}
